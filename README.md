@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @farheen20
-- 👀 I’m interested in Python and Data Analytics
-- 🌱 I’m currently learning Data Analytics using Python
-- 💞️ I’m looking to collaborate on tools being used in Data Analytics
+- 👀 I’m interested in learning Web development using Javascript and Python.
+- 🌱 I’m currently learning HTML, CSS and Javascript.
+- 💞️ I’m looking to collaborate on tools being used in Web development.
 - 📫 How to reach me 
 
 <!---
